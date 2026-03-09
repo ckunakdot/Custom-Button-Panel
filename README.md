@@ -391,11 +391,6 @@ Response:
 - Basic page swiping
 - Icon support
 
-## Credits
-
-**Creator:** Corey Kunak  
-**Manufacturer:** DenOfTechnology LLC  
-**Driver Type:** Custom Button Panel for Control4
 
 ## Support
 
@@ -405,7 +400,3 @@ For issues, feature requests, or questions:
 - Review troubleshooting section above
 
 ---
-
-**Built for Control4 Dealers and Integrators**
-
-Professional-grade button panel solution for smart home control systems.
