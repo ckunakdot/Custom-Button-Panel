@@ -391,6 +391,43 @@ Response:
 - Basic page swiping
 - Icon support
 
+## Related Projects
+
+This driver works great with other Control4 drivers for complete control solutions:
+
+### APC AP8930 PDU Driver
+[https://github.com/ckunakdot/APC_AP8930_PDU](https://github.com/ckunakdot/APC_AP8930_PDU)
+
+Use the Custom Button Panel to control APC PDU outlets:
+- Create dedicated buttons for each outlet
+- LED indicators show outlet On/Off state
+- Quick access to power cycling equipment
+- Organize by equipment type or location across pages
+
+**Example Setup:**
+```
+Page 1 Title: RACK POWER
+Button 1: AV Rack Outlet 1 (Amplifier)
+Button 2: AV Rack Outlet 2 (Receiver)
+Button 3: Network Outlet 1 (Switch)
+Button 4: Network Outlet 2 (Router)
+...
+
+Programming:
+When: Button 1 Pressed
+  → APC PDU > Outlet 1 > Toggle
+  → If Outlet On:
+      → Custom Button Panel > Set Button 1 State > On
+  → Else:
+      → Custom Button Panel > Set Button 1 State > Off
+```
+
+This combination provides a professional web-based control interface for your power distribution system.
+
+## Credits
+
+**Manufacturer:** DenOfTechnology LLC  
+**Driver Type:** Custom Button Panel for Control4
 
 ## Support
 
