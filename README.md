@@ -41,9 +41,11 @@ A powerful and flexible web-based button panel driver for Control4 systems, feat
 
 ## Screenshots
 
-<img width="1563" height="976" alt="image" src="https://github.com/user-attachments/assets/eb24b7cd-2b7e-468e-b718-0a6ae2e484c1" />
-<img width="1562" height="977" alt="image" src="https://github.com/user-attachments/assets/35f9a17b-c764-4e9c-bbbb-893cb3f72e53" />
-<img width="1564" height="979" alt="image" src="https://github.com/user-attachments/assets/5abc2519-8673-4135-9147-ffc16610e448" />
+*Add your screenshots here showing:*
+- Main interface with multiple pages
+- Different themes
+- LED indicator styles
+- Tablet installations in different rooms
 
 ## Installation
 
@@ -422,8 +424,29 @@ When: Button 1 Pressed
 
 This combination provides a professional web-based control interface for your power distribution system.
 
+### Webview Template
+[https://github.com/ckunakdot/Custom-Button-Panel/blob/main/troubleshoot.c4z](https://github.com/ckunakdot/Custom-Button-Panel/blob/main/troubleshoot.c4z)
+
+Use the included `troubleshoot.c4z` as a starting point for creating custom webview drivers:
+- Pre-configured to display the Custom Button Panel interface
+- Can be modified to fit your specific needs
+- Useful for embedding the panel in Control4 navigators
+- Easy to customize for different rooms or functions
+
+**How to Use:**
+1. Download `troubleshoot.c4z` from the repository
+2. Install in Composer alongside the Custom Button Panel driver
+3. Modify the webview URL to point to your desired page:
+   - Default view: `http://[controller-ip]:8080/`
+   - Kitchen page: `http://[controller-ip]:8080/page1.html`
+   - Living room: `http://[controller-ip]:8080/page2.html`
+4. Add to navigator views for easy access
+
+This allows you to integrate the button panel directly into Control4 touch panels and on-screen displays.
+
 ## Credits
 
+**Creator:** Corey Kunak  
 **Manufacturer:** DenOfTechnology LLC  
 **Driver Type:** Custom Button Panel for Control4
 
@@ -435,3 +458,7 @@ For issues, feature requests, or questions:
 - Review troubleshooting section above
 
 ---
+
+**Built for Control4 Dealers and Integrators**
+
+Professional-grade button panel solution for smart home control systems.
