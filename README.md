@@ -34,12 +34,6 @@ A powerful and flexible web-based button panel driver for Control4 systems, feat
 - **Flexible button counts** - use 1-12 buttons per page as needed
 - **Server-side filtering** - clean, efficient page separation
 
-###  Developer Friendly
-- **Debug logging** with auto-disable timer
-- **Clean HTTP API** for button presses and state updates
-- **Embedded documentation** accessible via Composer
-- **No memory leaks** - proper timer and resource management
-
 ## Screenshots
 
 <img width="1563" height="976" alt="image" src="https://github.com/user-attachments/assets/eb24b7cd-2b7e-468e-b718-0a6ae2e484c1" />
