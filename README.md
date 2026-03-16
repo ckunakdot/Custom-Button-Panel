@@ -334,7 +334,6 @@ Define your own colors:
 - Enhanced debug logging
 - Changed Control4 theme to blue accent
 - Added Left Bar LED indicator style
-- Memory leak audit and cleanup
 
 ### v2.1
 - Added LED state feedback
