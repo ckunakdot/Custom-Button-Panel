@@ -353,9 +353,6 @@ Define your own colors:
 - Icon support
 
 ## Related Projects
-
-This driver works great with other Control4 drivers for complete control solutions:
-
 ### APC AP8930 PDU Driver
 [https://github.com/ckunakdot/APC_AP8930_PDU](https://github.com/ckunakdot/APC_AP8930_PDU)
 
