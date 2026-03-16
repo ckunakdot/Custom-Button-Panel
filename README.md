@@ -42,12 +42,6 @@ A powerful and flexible web-based button panel driver for Control4 systems, feat
 
 
 ## Installation
-
-### Requirements
-- Control4 OS 3.x or later
-- Network-connected Control4 controller
-- Web browser or tablet for accessing the interface
-
 ### Steps
 
 1. **Download** the latest `CustomButtonPanel.c4z` from releases
