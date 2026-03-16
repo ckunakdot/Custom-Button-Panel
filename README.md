@@ -39,6 +39,8 @@ A powerful and flexible web-based button panel driver for Control4 systems, feat
 <img width="1563" height="976" alt="image" src="https://github.com/user-attachments/assets/eb24b7cd-2b7e-468e-b718-0a6ae2e484c1" />
 <img width="1562" height="977" alt="image" src="https://github.com/user-attachments/assets/35f9a17b-c764-4e9c-bbbb-893cb3f72e53" />
 <img width="1564" height="979" alt="image" src="https://github.com/user-attachments/assets/5abc2519-8673-4135-9147-ffc16610e448" />
+<img width="1613" height="1044" alt="image" src="https://github.com/user-attachments/assets/892f4d34-d71b-47b3-a60f-c77e266d88b8" />
+
 
 ## Installation
 
