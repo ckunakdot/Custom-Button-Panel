@@ -3,7 +3,8 @@
 A powerful and flexible web-based button panel driver for Control4 systems, featuring customizable pages, LED state feedback, icon support, and multiple themes.
 
 ![Version](https://img.shields.io/badge/version-2.2-blue)
-![Control4](https://img.shields.io/badge/Control4-OS%203.x-orange)
+  <img src="https://img.shields.io/badge/Control4-OS%203.x-red" alt="Control4 OS 3.x">
+  <img src="https://img.shields.io/badge/Control4-OS%204.x-blue" alt="Control4 OS 4.x">
 
 ## Features
 
