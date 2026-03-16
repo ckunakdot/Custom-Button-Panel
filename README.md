@@ -405,12 +405,6 @@ Use the included `troubleshoot.c4z` as a starting point for creating custom webv
 
 This allows you to integrate the button panel directly into Control4 touch panels and on-screen displays.
 
-## Credits
-
-**Creator:** Corey Kunak  
-**Manufacturer:** DenOfTechnology LLC  
-**Driver Type:** Custom Button Panel for Control4
-
 ## Support
 
 For issues, feature requests, or questions:
