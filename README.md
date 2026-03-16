@@ -8,33 +8,33 @@ A powerful and flexible web-based button panel driver for Control4 systems, feat
 
 ## Features
 
-### 🎛️ Flexible Button Layout
+###  Flexible Button Layout
 - **48 buttons** organized across 4 swipeable pages
 - **12 buttons per page** with customizable grid layout
 - **Strict page boundaries** - buttons stay on their designated pages
 - **Individual page routing** - access specific pages via URL
 - **Custom page titles** - unique title for each page
 
-### 🎨 Visual Customization
+###  Visual Customization
 - **7 built-in themes** including Control4 SnapOne (blue accent)
 - **4 LED indicator styles**: Left Bar, Dot, Border, Background
 - **Icon support**: Material Design Icons (MDI), Emojis, Custom image URLs
 - **Responsive design** optimized for tablets and touchscreens
 - **Touchscreen-friendly** large buttons with visual feedback
 
-### 🔄 Real-Time Updates
+###  Real-Time Updates
 - **Live state feedback** - LED indicators show On/Off state
 - **Auto-refresh** every 5 seconds maintains current state
 - **Persistent position** - stays on your current page during refresh
 - **Bidirectional control** - updates when devices change externally (with programming)
 
-### 🌐 Multi-Tablet Support
+###  Multi-Tablet Support
 - **Page routing** - different tablets show different pages
 - **Custom titles per page** - e.g., "KITCHEN", "LIVING ROOM"
 - **Flexible button counts** - use 1-12 buttons per page as needed
 - **Server-side filtering** - clean, efficient page separation
 
-### 🛠️ Developer Friendly
+###  Developer Friendly
 - **Debug logging** with auto-disable timer
 - **Clean HTTP API** for button presses and state updates
 - **Embedded documentation** accessible via Composer
